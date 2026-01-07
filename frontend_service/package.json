@@ -1,0 +1,16 @@
+{
+  "name": "vehicle-system-mobile",
+  "version": "1.0.0",
+  "description": "Mobile version of Vehicle System",
+  "scripts": {
+    "build": "echo 'No build step needed for plain HTML/JS'",
+    "start": "npx cap serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/android": "^8.0.0",
+    "@capacitor/cli": "^8.0.0",
+    "@capacitor/core": "^8.0.0"
+  }
+}
